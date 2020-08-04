@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-E:/C++/PathFinding/Include/GLFW/glfw3.h
+/Users/bradley/Documents/C++Projects/git/PathFindingApplication/Include/GLFW/glfw3.h
 stddef.h
 -
 stdint.h
@@ -50,7 +50,7 @@ GL/glext.h
 GL/glu.h
 -
 
-E:/C++/PathFinding/src/main.cpp
+/Users/bradley/Documents/C++Projects/git/PathFindingApplication/src/main.cpp
 ../Include/GLFW/glfw3.h
-E:/C++/PathFinding/Include/GLFW/glfw3.h
+/Users/bradley/Documents/C++Projects/git/PathFindingApplication/Include/GLFW/glfw3.h
 

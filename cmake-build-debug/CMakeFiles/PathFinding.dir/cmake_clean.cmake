@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PathFinding.dir/src/main.cpp.obj"
-  "PathFinding.exe"
-  "PathFinding.exe.manifest"
+  "CMakeFiles/PathFinding.dir/src/main.cpp.o"
+  "PathFinding"
   "PathFinding.pdb"
-  "libPathFinding.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
